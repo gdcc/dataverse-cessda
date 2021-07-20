@@ -12,7 +12,7 @@ The script was developed and documented in April-May 2021 by Youssef Ouahalou wi
 
 ## Version history and project status
 
-This is the **second version** of SUPER DADA for **versions 4+** of Dataverse: **SUPER DADA v2.0**
+This is the **second version** of SUPER DADA for **versions 4+** of Dataverse: **SUPER DADA for Dataverse versions 4+ v2.0**
 
 <span style="color:red">**IMPORTANT NOTE: Please do not use SUPER DADA for Dataverse 4+ <u>v1.0</u>. It turns out the first version of the script is problematic due to unfortunate misinterpretations of the Metadata Validator's constraint violations.**</span>
 
@@ -63,7 +63,6 @@ As per the CDC requirements, which stem from the [CESSDA Metadata Model](https:/
 
 - and **attributes**
   - ``@xml:lang``
-  - ``@lang``
   - ``@vocab``
   - ``@URI`` (in ``<holdings>``)
   - ``@date`` (in ``<distDate>``) 
