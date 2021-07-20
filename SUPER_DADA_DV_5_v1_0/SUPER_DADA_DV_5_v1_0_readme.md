@@ -11,7 +11,7 @@ The script was developed and documented in April-May 2021 by Youssef Ouahalou wi
 
 ## Version history and project status
 
-This is the **first version** of SUPER DADA for **versions 5+** of Dataverse: **SUPER DADA v1.0**
+This is the **first version** of SUPER DADA for **versions 5+** of Dataverse: **SUPER DADA for Dataverse versions 5+ v1.0**
 
 Another, similar version of the script exists for **versions 4+** of Dataverse.
 
@@ -31,7 +31,6 @@ As per the CDC requirements, which stem from the [CESSDA Metadata Model](https:/
 
 - and **attributes**
   - ``@xml:lang``
-  - ``@lang``
   - ``@vocab``
   - ``@URI`` (in ``<holdings>``)
   - ``@date`` (in ``<distDate>``) 
